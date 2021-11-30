@@ -6,3 +6,5 @@ Gradle Workflow
 Cluster Setup
 ![image](https://user-images.githubusercontent.com/66948916/144024132-1ac3677f-f0aa-43b3-abe2-f528a5c87d88.png)
 
+Create Release
+![image](https://user-images.githubusercontent.com/66948916/144024452-a4b4b037-604a-4a34-8d6e-6e1318628698.png)
