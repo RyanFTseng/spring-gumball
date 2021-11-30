@@ -8,3 +8,6 @@ Cluster Setup
 
 Create Release
 ![image](https://user-images.githubusercontent.com/66948916/144024452-a4b4b037-604a-4a34-8d6e-6e1318628698.png)
+
+Successful CD Deployment
+![image](https://user-images.githubusercontent.com/66948916/144030348-7fad3773-f0a0-4030-80a8-09b7ff086739.png)
