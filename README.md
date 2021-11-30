@@ -12,4 +12,9 @@ Create Release
 Successful CD Deployment
 ![image](https://user-images.githubusercontent.com/66948916/144030348-7fad3773-f0a0-4030-80a8-09b7ff086739.png)
 
-Running Workload
+Running Workload and Service
+![image](https://user-images.githubusercontent.com/66948916/144030906-6dbd71b4-ef73-413f-82e3-91947316a64a.png)
+
+![image](https://user-images.githubusercontent.com/66948916/144030864-e324e449-eefb-4581-9e89-dbda93e38cd7.png)
+
+
